@@ -1,5 +1,5 @@
 # 🤔 Pengenalan Game Development
-![500](attachments/Pasted%20image%2020241108100435.png)
+![500](/miniclass/game/assets/Pasted%20image%2020241108100435.png)
 
 Ada yang tahu apa *sih* game development itu?
 
@@ -21,14 +21,14 @@ Kamu mungkin sudah kenal dengan front-end, back-end, fullstack, dan UIUX di bida
 
 Ingat! Dalam game development, ada banyak sekali bidang keilmuan yang diperlukan dalam sebuah pengembangan. Walau begitu, ada 3 role penting dalam game development.
 ### Game Designer
-![100](attachments/Pasted%20image%2020241112070901.png)
+![100](/miniclass/game/assets/Pasted%20image%2020241112070901.png)
 
 Dalam game development, **designer** bukanlah ❌ orang yang menggambar/mendesain UI atau ilustrasi. Desainer adalah orang yang membuat desain atau rancangan sebuah game, meliputi judul game, tema, genre, mekanika dan dinamika permainan, target audiensi, art, dan masih banyak lagi.
 
 Sebagai desainer, kamu akan menulis sebuah dokumen bernama **Game Desain Document**. Kamu akan mengajak timmu untuk brainstorming bagaimana detail mekanika game, artstyle, cerita, dan lainnya.
 
 ### Programmer
-![500](attachments/Pasted%20image%2020241112072104.png)
+![500](/miniclass/game/assets/Pasted%20image%2020241112072104.png)
 
 **Programmer** adalah jantung dari pengembangan game. Di sinilah segala mekanika yang game designer rancang di atas kertas akan diubah menjadi kode yang nyata. Tugas kamu sebagai game programmer meliputi implementasi logika permainan, interaksi karakter, hingga pengelolaan sistem skor dan level. Programmer juga akan berurusan dengan _engine_ game, seperti Unity atau Unreal Engine, dan menggunakan bahasa pemrograman yang sesuai, misalnya C# atau C++.
 
@@ -37,7 +37,7 @@ Kamu juga harus bisa berkomunikasi dengan baik dengan **game designer** dan **ar
 >**Tantangan bagi Programmer**: Kamu akan sering menghadapi _bug_ dan _error_ di sepanjang jalan, jadi jangan malas debugging.
 
 ### Artist
-![500](attachments/Pasted%20image%2020241112075501.png)
+![500](/miniclass/game/assets/Pasted%20image%2020241112075501.png)
 
 **Artist** dalam game development bertanggung jawab atas tampilan visual dari game yang akan dimainkan, meliputi desain karakter, lingkungan, hingga elemen UI. Ada berbagai jenis artist dalam tim game development, di antaranya **2D artist** yang membuat ilustrasi karakter atau **3D artist** yang memodelkan objek dalam bentuk tiga dimensi.
 
