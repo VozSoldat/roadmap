@@ -17,6 +17,7 @@ Kalau kamu membaca ini, berarti kamu tertarik untuk mempelajari dasar-dasar peng
 	- Pembuatan Game Design
 - [Dasar Unity](dasar-unity/index.md)
   - [Antarmuka](dasar-unity/index.md#antarmuka)
+  - [Unsur Dasar Unity](dasar-unity/index.md#unsur-dasar-unity)
 ## 🌐 Referensi Luar
 - [Official Unity Learn](https://learn.unity.com/)
 ## 🧑‍🏫 Kontributor
