@@ -52,7 +52,7 @@ Untuk membuat Component dari Script, kita perlu menulis script dan kemudian mena
 ### Scene
 *Scene* adalah tempat di mana semua objek GameObject berada. Scene adalah Asset yang berisi semua bagian game kita, seperti karakter, lingkungan, dan *special effect*. Scene dapat disebut juga dengan *World* atau *Level*. Segala perubahan yang kita lakukan terhadap GameObject di dalam Scene akan disimpan ke dalam file Asset dari Scene tersebut. Scene memungkinkan kita membuat macam-macam level dengan pengaturan GameObject; karakter, item, rintangan, dan UI yang berbeda. 
 
-<img src="https://unity-connect-prd.storage.googleapis.com/20210901/videos/5b2b7a04-c9f6-4f6a-8cd2-79c3a246c493_Editor_FrameSelect_v2/poster/origin/thumb1.png" height="200rem">
+<img src="https://unity-connect-prd.storage.googleapis.com/20210901/videos/5b2b7a04-c9f6-4f6a-8cd2-79c3a246c493_Editor_FrameSelect_v2/poster/origin/thumb1.png" height="300rem">
 
 ### Prefab
 Prefab memungkinkan kita untuk membuat, mengatur, dan menyimpan sebuah GameObjecr beserta semua Component, nilai properti, dan child GameObject sebagai Asset. Dengan menjadikan suatu GameObject sebagai Asset, kita dapat menggunakannya di banyak Scene yang berbeda. Prefab juga berfungsi sebagai template atau *blueprint* untuk menciptakan instance GameObject di dalam Scene.
