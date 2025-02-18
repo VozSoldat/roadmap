@@ -27,7 +27,7 @@ Mesin ini dapat digunakan untuk membuat permainan tiga dimensi, dua dimensi, rea
 - ***(H)*** **Status Bar** - Menunjukkan notifikasi tentang semua proses Unity dan akses cepat untuk alat dan pengaturan yang berkaitan.
 <!-- - The status bar provides notifications about various Unity processes, and quick access to related tools and settings. -->
 
-Referensi[^1].
+Referensi[^5].
 
 ## Unsur Dasar Unity
 ### Game Object
@@ -59,7 +59,7 @@ Prefab memungkinkan kita untuk membuat, mengatur, dan menyimpan sebuah GameObjec
 
 <img src="https://unity-connect-prd.storage.googleapis.com/20190603/learn/images/0c825ac5-5d17-45d7-9d0f-ed1764b1ad2d_prefabs___01.png">
 
-[^1]:https://docs.unity3d.com/2022.3/Documentation/Manual/UsingTheEditor.html
+[^5]:https://docs.unity3d.com/2022.3/Documentation/Manual/UsingTheEditor.html
 [^2]:https://docs.unity3d.com/2022.3/Documentation/Manual/GameObjects.html
 [^3]:https://docs.unity3d.com/2022.3/Documentation/Manual/UsingComponents.html
 [^4]:https://docs.unity3d.com/2022.3/Documentation/Manual/CreatingComponents.html
