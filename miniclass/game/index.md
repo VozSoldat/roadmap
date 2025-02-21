@@ -14,11 +14,11 @@ Kalau kamu membaca ini, berarti kamu tertarik untuk mempelajari dasar-dasar peng
 ## 📖 Bahan Ajar Miniclass
 - [Pengenalan Game Development](pengenalan/index.md)
 	- [Peran-Peran dalam Game Development](pengenalan/index.md#role-dalam-game-development)
-	- Pembuatan Game Design
+	- [Pembuatan Game Design](pengenalan/index.md#game-design)
 - [Dasar Unity](dasar-unity/index.md)
   - [Antarmuka](dasar-unity/index.md#antarmuka)
   - [Unsur Dasar Unity](dasar-unity/index.md#unsur-dasar-unity)
 ## 🌐 Referensi Luar
 - [Official Unity Learn](https://learn.unity.com/)
 ## 🧑‍🏫 Kontributor
-- 
+- Alexander Agung Raya

@@ -52,7 +52,7 @@ Sebelum membuat game, kamu--sebagai developer--harus bikin rancangan atau desain
 > Desain atau rancangan **lengkap** suatu game, meliputi judul game, tema, genre, mekanika dan dinamika permainan, target audiensi, art, dan masih banyak lagi. 
 
 Semua unsur yang akan kita buat, dari model karakter, script movement, mekanisme battle, nyawa, dan lainnya harus mengikuti ketentuan yang sudah dibuat di game desain **document**. Orang yang membuat game desain bernama **game designer**.
-
+berikut ini adalah cara untuk membuat game desain kamu. [sendiri.](pengenalan/penulisan-game-desain/index.md)
 
 
 [^1]: https://www.futurelearn.com/info/courses/how-to-start-your-career-in-games-development/0/steps/57132
