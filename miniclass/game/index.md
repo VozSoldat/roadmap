@@ -7,7 +7,7 @@ Sebelum kamu membaca materi game,<br>
 kami selaku mentor ingin memberi selamat untuk kamu karena sudah menjadi bagian miniclass paling seru di WRI.<br>
 
 Semangat!
-## 📃 Index
+## 📃 Topik
 Kalau kamu membaca ini, berarti kamu tertarik untuk mempelajari dasar-dasar pengembangan game. Tenang saja, kita akan menjelajahi proses ini langkah demi langkah.
 - [Bahan Ajar Miniclass](##📖%20Bahan%20Ajar%20Miniclass)
 - [Referensi Luar](##🌐%20Referensi%20Luar)
@@ -18,6 +18,7 @@ Kalau kamu membaca ini, berarti kamu tertarik untuk mempelajari dasar-dasar peng
 - [Dasar Unity](dasar-unity/index.md)
   - [Antarmuka](dasar-unity/index.md#antarmuka)
   - [Unsur Dasar Unity](dasar-unity/index.md#unsur-dasar-unity)
+- [Project-Based Learning](project-based-learning/index.md)
 ## 🌐 Referensi Luar
 - [Official Unity Learn](https://learn.unity.com/)
 ## 🧑‍🏫 Kontributor
