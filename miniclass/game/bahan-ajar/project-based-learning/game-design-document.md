@@ -1,5 +1,5 @@
 # Rincian Proyek
-| | |
+|||
 |---|--|
 |Nama Proyek|Spaze Shooter|
 |Genre|Arcade, Shooter|

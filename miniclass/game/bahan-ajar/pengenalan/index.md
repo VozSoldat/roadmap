@@ -11,9 +11,9 @@ Jadi intinya, gamedev itu adalah kegiatan membuat game dari perencanaan sampai k
 Orang yang men-developt game bernama **game developer**.
 ## Game Development di Indonesia
 <div display="flex">
-<img src="https://cdn.gamerwk.com/2024/10/IGDX-2024-750x375.jpg" height=130rem>
-<img src="https://img.itch.zone/aW1nLzE3Njc1NDI0LnBuZw==/original/uyGbNu.png" height=130rem>
-<img src="https://pbs.twimg.com/media/GaFqAtnbAAAs1h6?format=jpg&name=900x900" height=130rem>
+<img src="https://cdn.gamerwk.com/2024/10/IGDX-2024-750x375.jpg" height=200rem height=200rem>
+<img src="https://img.itch.zone/aW1nLzE3Njc1NDI0LnBuZw==/original/uyGbNu.png" height=200rem>
+<img src="https://pbs.twimg.com/media/GaFqAtnbAAAs1h6?format=jpg&name=900x900" height=200rem>
 </div>
 
 ## Role dalam Game Development
@@ -21,7 +21,7 @@ Kamu mungkin sudah kenal dengan front-end, back-end, fullstack, dan UIUX di bida
 
 Ingat! Dalam game development, ada banyak sekali bidang keilmuan yang diperlukan dalam sebuah pengembangan. Walau begitu, ada 3 role penting dalam game development.
 ### Game Designer
-<img src="/miniclass/game/assets/Pasted%20image%2020241112070901.png" height="300rem">
+![100](/miniclass/game/assets/Pasted%20image%2020241112070901.png)
 
 Dalam game development, **designer** bukanlah ❌ orang yang menggambar/mendesain UI atau ilustrasi. Desainer adalah orang yang membuat desain atau rancangan sebuah game, meliputi judul game, tema, genre, mekanika dan dinamika permainan, target audiensi, art, dan masih banyak lagi.
 
@@ -52,7 +52,7 @@ Sebelum membuat game, kamu--sebagai developer--harus bikin rancangan atau desain
 > Desain atau rancangan **lengkap** suatu game, meliputi judul game, tema, genre, mekanika dan dinamika permainan, target audiensi, art, dan masih banyak lagi. 
 
 Semua unsur yang akan kita buat, dari model karakter, script movement, mekanisme battle, nyawa, dan lainnya harus mengikuti ketentuan yang sudah dibuat di game desain **document**. Orang yang membuat game desain bernama **game designer**.
-berikut ini adalah cara untuk membuat game desain kamu. [sendiri.](miniclass/game/bahan-ajar/pengenalan/pengenalan/penulisan-game-desain/index.md)
+berikut ini adalah cara untuk membuat game desain kamu. [sendiri.](pengenalan/penulisan-game-desain/index.md)
 
 
 [^1]: https://www.futurelearn.com/info/courses/how-to-start-your-career-in-games-development/0/steps/57132
