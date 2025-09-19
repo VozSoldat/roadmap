@@ -1,6 +1,6 @@
-# Silabus
+# 📜 Silabus
 
-## Sub-Miniclass Game Development
+## 🕹️ Sub-Miniclass Game Development
 
 Game Development memuat pemaparan cara membuat game dari awal hingga menjadi prototype di dalam game engine Unity.
 
@@ -61,7 +61,7 @@ Silabus ekstra berisi materi di luar miniclass. Umumnya, materi ekstra tidak men
 | B-5  | SOLID Principle             |
 | B-6  | Pitch Deck                  |
 
-## Sub-Miniclass Game Arts
+## 🎨 Sub-Miniclass Game Arts
 
 Game Arts memuat pemaparan estetika dan seni dalam game development, terutama 2D pixel art.
 
