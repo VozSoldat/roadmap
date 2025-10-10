@@ -70,7 +70,7 @@ Game Arts memuat pemaparan estetika dan seni dalam game development, terutama 2D
 | Kode | Hari ke | Materi                             |
 | ---- | ------- | ---------------------------------- |
 | M-1  | 1       | Selamat Datang di Game Development |
-| A-1  | 2       | Menjadi Elitist Game Art           |
+| A-1  | 2       | [Menjadi Elitist Game Art](A-1.md) |
 | A-2  | 3       | Membangun Pijakan dalam Game Art   |
 | A-3  | 4       | Mood Board dan Character Sheet     |
 | A-4  | 5       | Menciptakan Asset Game Platformer  |
