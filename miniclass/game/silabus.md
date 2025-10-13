@@ -8,14 +8,14 @@ Game Development memuat pemaparan cara membuat game dari awal hingga menjadi pro
 
 Silabus utama merupakan materi yang disampaikan pada miniclass.
 
-| Kode                  | Hari ke | Materi                             |
-| --------------------- | ------- | ---------------------------------- |
-| ***Semester Ganjil*** | --      | --                                 |
-| M-1                   | 1       | Selamat Datang di Game Development |
-| M-2                   | 2       | Ayo Bermain Game                   |
-| M-3                   | 3       | Petualangan Unity                  |
-| M-4                   | 4       | Kode dan Hidup Seorang MC          |
-| M-5                   | 5       | Game Platformer                    |
+| Kode                  | Hari ke | Materi                                       |
+| --------------------- | ------- | -------------------------------------------- |
+| ***Semester Ganjil*** | --      | --                                           |
+| M-1                   | 1       | [Selamat Datang di Game Development](M-1.md) |
+| M-2                   | 2       | Ayo Bermain Game                             |
+| M-3                   | 3       | Petualangan Unity                            |
+| M-4                   | 4       | Kode dan Hidup Seorang MC                    |
+| M-5                   | 5       | Game Platformer                              |
 
 #### Perincian
 
@@ -67,13 +67,13 @@ Game Arts memuat pemaparan estetika dan seni dalam game development, terutama 2D
 
 ### Utama
   
-| Kode | Hari ke | Materi                                     |
-| ---- | ------- | ------------------------------------------ |
-| M-1  | 1       | Selamat Datang di Game Development         |
-| A-1  | 2       | [Menjadi Elitist Game Art](A-1.md)         |
-| A-2  | 3       | [Membangun Pijakan dalam Game Art](A-2.md) |
-| A-3  | 4       | Mood Board dan Character Sheet             |
-| A-4  | 5       | Menciptakan Asset Game Platformer          |
+| Kode | Hari ke | Materi                                       |
+| ---- | ------- | -------------------------------------------- |
+| M-1  | 1       | [Selamat Datang di Game Development](M-1.md) |
+| A-1  | 2       | [Menjadi Elitist Game Art](A-1.md)           |
+| A-2  | 3       | [Membangun Pijakan dalam Game Art](A-2.md)   |
+| A-3  | 4       | Mood Board dan Character Sheet               |
+| A-4  | 5       | Menciptakan Asset Game Platformer            |
 
 #### Perincian
 
